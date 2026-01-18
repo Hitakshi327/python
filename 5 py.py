@@ -1,0 +1,10 @@
+x=3
+y=1
+z = x+y
+a = x - y
+b = x*y
+c= x/y
+print("sum=",z)
+print("diff=",a)
+print("multi=",b)
+print("divid=",c)
